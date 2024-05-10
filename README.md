@@ -446,10 +446,14 @@ product.html
 </html>
 ```
 ## OUTPUT:
-![alt text](<WhatsApp Image 2024-05-08 at 21.44.30_0d571c08.jpg>)
-![alt text](<WhatsApp Image 2024-05-08 at 21.44.30_2aad65fa.jpg>)
-![alt text](<WhatsApp Image 2024-05-08 at 21.44.30_d5ae6bd4.jpg>)
-![alt text](<WhatsApp Image 2024-05-08 at 21.44.31_e086ce88.jpg>)
+![image](https://github.com/Yugendaran/Pharma/assets/128135616/e780616c-0a7e-4d7a-ad94-f210ec442576)
+
+![image](https://github.com/Yugendaran/Pharma/assets/128135616/de2190d1-3efe-434e-9176-2fe64c77d73a)
+
+![image](https://github.com/Yugendaran/Pharma/assets/128135616/b1f15619-af2c-4df4-9982-befa0a27a8fc)
+
+![image](https://github.com/Yugendaran/Pharma/assets/128135616/b62a8902-0976-466b-8bf1-788c50031426)
+
 
 
 ## RESULT:
